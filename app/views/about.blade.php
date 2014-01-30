@@ -20,8 +20,8 @@
  
         <p>Sanfa Construction Supply was established in 2002. Our main products are Maya Cement, Steel, and Roller Shutter Doors. Though these are our main products, we also offer a variety of hardware products that suit your every need.</p> 
  
-        <p>The variety of construction and carpentry supplies at our hardware store include, but are not limited to: Nails, tying wire, doors, lumbers, and many other construction supplies. The founder of this company is Mr. Hsi-Fa Wu. </p>
-        <p>The company's current location is in Corozal, Belize. Central America. Throughout theyears, we have made many improvements, not only with our products but also our services.</p>
+        <p>The variety of construction and carpentry supplies at our hardware store include, but are not limited to: Nails, tying wire, doors, lumbers, and many other construction supplies.</p>
+        <p>The company's current location is in Corozal, Belize. Central America. Throughout the years, we have made many improvements, not only with our products but also our services.</p>
  
       </article>
  

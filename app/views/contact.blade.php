@@ -39,7 +39,7 @@
               <label>What's up?</label>
               <div class="row">
                 <div class="large-12 columns">
-                  <textarea>Questions?</textarea>
+                  <textarea cols="40">Questions?</textarea>
                 </div>
               </div>
               <button type="submit" class="radius button">Submit</button>
@@ -59,8 +59,8 @@
       <h5>Map</h5>
       <!-- Clicking this placeholder fires the mapModal Reveal modal -->
       <p>
-        <a href="" data-reveal-id="mapModal"><img src="http://placehold.it/400x280"></a><br />
-        <a href="" data-reveal-id="mapModal">View Map</a>
+        <a href="" data-reveal-id="mapModal"><img src="/assets/other/contactus_map.png"></a><br />
+        <a href="https://www.google.com/maps/preview/@18.390445,-88.4016003,16z" target="_blank" data-reveal-id="mapModal">View Map</a>
       </p>
       <p>
         815 San Andres Road,<br />

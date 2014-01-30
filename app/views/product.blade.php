@@ -37,7 +37,7 @@
           <h4>Get In Touch!</h4><hr/>
  
           <a class="large button expand" href="/contact">
-            Contact Us To Action!
+            Call for Pricing!
           </a>
  
     
@@ -56,23 +56,23 @@
     <!-- Thumbnails -->
  
         <div class="large-3 small-6 columns">
-          <img src="http://placehold.it/250x250&text=Thumbnail" />
-          <h6 class="panel">Description</h6>
+          <img src="/assets/products/cement_220x220.png" />
+          <h6 class="panel">Maya Cement</h6>
         </div>
  
         <div class="large-3 small-6 columns">
-          <img src="http://placehold.it/250x250&text=Thumbnail" />
-          <h6 class="panel">Description</h6>
+          <img src="/assets/products/steel_220x220.png" />
+          <h6 class="panel">Construction Steels</h6>
         </div>
  
         <div class="large-3 small-6 columns">
-          <img src="http://placehold.it/250x250&text=Thumbnail" />
-          <h6 class="panel">Description</h6>
+          <img src="/assets/products/plumbing_220x220.png" />
+          <h6 class="panel">Plumbings</h6>
         </div>
  
         <div class="large-3 small-6 columns">
-          <img src="http://placehold.it/250x250&text=Thumbnail" />
-          <h6 class="panel">Description</h6>
+          <img src="/assets/products/block_220x220.png" />
+          <h6 class="panel">Blocks</h6>
         </div>
  
     <!-- End Thumbnails -->
@@ -88,23 +88,23 @@
     <!-- Thumbnails -->
  
         <div class="large-3 small-6 columns">
-          <img src="http://placehold.it/250x250&text=Thumbnail" />
-          <h6 class="panel">Description</h6>
+          <img src="/assets/products/handtool_220x220.png" />
+          <h6 class="panel">Hand Tools</h6>
         </div>
  
         <div class="large-3 small-6 columns">
-          <img src="http://placehold.it/250x250&text=Thumbnail" />
-          <h6 class="panel">Description</h6>
+          <img src="/assets/products/paint_220x220.png" />
+          <h6 class="panel">Paints</h6>
         </div>
  
         <div class="large-3 small-6 columns">
-          <img src="http://placehold.it/250x250&text=Thumbnail" />
-          <h6 class="panel">Description</h6>
+          <img src="/assets/products/motoroil_220x220.png" />
+          <h6 class="panel">Motor Oils</h6>
         </div>
  
         <div class="large-3 small-6 columns">
-          <img src="http://placehold.it/250x250&text=Thumbnail" />
-          <h6 class="panel">Description</h6>
+          <img src="/assets/products/knobs_220x220.png" />
+          <h6 class="panel">Other Materials</h6>
         </div>
  
     <!-- End Thumbnails -->
