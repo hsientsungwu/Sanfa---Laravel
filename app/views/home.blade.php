@@ -23,20 +23,20 @@
   <div class="row">
     <div class="large-4 columns">
       <img src="/assets/products/cements_250x250.png" />
-      <h4>This is a content section.</h4>
-      <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
+      <h4>Cemento Maya</h4>
+      <p>The most finest and reliable brand used in the country of Belize. It comes with two packaging (50kg and 42.5kg). Direct imported from the factory in Merida.</p>
     </div>
     
     <div class="large-4 columns">
       <img src="/assets/products/steels_250x250.png" />
-      <h4>This is a content section.</h4>
-      <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
+      <h4>Construction Steel</h4>
+      <p>Construction rebars are provided in different sizes such as 1/4", 3/8", 1/2", 5/8", 3/4", 1". They're most commonly used in building houses, making burglar bar gates/ windows..etc.</p>
     </div>
     
     <div class="large-4 columns">
       <img src="/assets/products/curtains_250x250.png" />
-      <h4>This is a content section.</h4>
-      <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
+      <h4>Curtain Door</h4>
+      <p>Currently throughout the world, many people are relying on using Curtain/Shutter doors because they are much stronger and more reliable than regular doors. They are provided in two types, the manual and the automatic (with remove control)</p>
     </div>
   
     </div>
