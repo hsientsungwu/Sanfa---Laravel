@@ -16,9 +16,15 @@
       <p>We'd love to hear from you. You can either reach out to us as a whole and one of our awesome team members will get back to you, or if you have a specific question reach out to one of our staff. We love getting email all day <em>all day</em>.</p>
 
       @if (isset($success))
-      <div class="success label">
+      <span class="success label">
         Your request has been sent. Our customer service will be in touch shortly. Thank you for your submission.
-      </div>
+      </span>
+      @elseif (isset($errors))
+        @foreach ($errors as $error)
+          <span class="alert label">
+              {{ $error }}
+          </span>
+        @endforeach
       @endif
       
       {{ Form::open(array('url' => '/contact/post', 'method' => 'POST')); }}

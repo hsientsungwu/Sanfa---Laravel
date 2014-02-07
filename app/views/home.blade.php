@@ -4,6 +4,12 @@
   Sanfa | Home
 @stop
 
+@section('meta_head')
+  <meta property="og:title" content="Sanfa Construction Supply">
+  <meta property="og:url" content="http://www.sanfa.bz">
+  <meta property="og:description" content="Sanfa Construction Supply is located in Corozal, Belize, Central America. We're strive to provide explicit customer experience and top quality supplies. We offer various partnership plan in assisting local construction development. Contact Us for detail. ">
+@stop
+
 @section('body')
  
 <!-- First Band (Slider) -->
@@ -54,7 +60,7 @@
     <div class="large-4 columns">
       <img src="/assets/products/curtains_250x250.png" />
       <h4>Curtain Door</h4>
-      <p>Currently throughout the world, many people are relying on using Curtain/Shutter doors because they are much stronger and more reliable than regular doors. They are provided in two types, the manual and the automatic (with remove control)</p>
+      <p>Currently throughout the world, many people are relying on using Curtain/Shutter doors because they are much stronger and more reliable than regular doors. They are provided in two types, the manual and the automatic (with remote control)</p>
     </div>
   
     </div>

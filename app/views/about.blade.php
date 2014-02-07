@@ -33,10 +33,17 @@
     <!-- Sidebar -->
  
     <aside class="large-3 columns">
- 
+      <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=709209622456817";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
       <div class="panel">
         <h5>Like Us on Facebook</h5>
-        <p>Facebook link</p>
+        <div class="fb-like-box" data-href="https://www.facebook.com/sanfa.construction" data-width="178" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="true"></div>
       </div>
  
     </aside>

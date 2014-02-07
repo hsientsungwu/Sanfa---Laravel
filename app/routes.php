@@ -22,16 +22,32 @@ Route::get('/contact', function()
 });
 
 Route::post('/contact/post', function() {
+	$rules = array(
+			'name'       => 'Required',
+	        'email'     => 'Required|Email',
+	        'question'  =>'Required',
+	);
+
 	$data = Input::all();
 
-	Mail::send('emails.newrequest', $data, function($message)
-	{
-		$recepients = array('swu@sanfa.bz' => 'Steve Wu', 'awu@sanfa.bz' => 'Anny Wu', 'hwu@sanfa.bz' => 'Henry Wu');
+	$v = Validator::make($data, $rules);
 
-	    $message->to($recepients)->subject('[Sanfa] New Request from sanfa.bz');
-	});
+	if ($v->passes()) {
+		Mail::send('emails.newrequest', $data, function($message)
+		{
+			$recepients = array('swu@sanfa.bz' => 'Steve Wu', 'awu@sanfa.bz' => 'Anny Wu', 'hwu@sanfa.bz' => 'Henry Wu');
 
-	return View::make('contact', array('success' => true));
+		    $message->to($recepients)->subject('[Sanfa] New Request from sanfa.bz');
+		});
+
+		$returnData = array('success' => true);
+	} else {
+		$messages = $v->messages();
+
+		$returnData = array('errors' => $messages->all());
+	}
+
+	return View::make('contact', $returnData);
 });
 
 Route::get('/products', function()
