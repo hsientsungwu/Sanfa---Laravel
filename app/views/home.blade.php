@@ -17,9 +17,27 @@
     <hr />
     </div>
   </div>
-  
+  <div class="row">
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=709209622456817";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    <div class="large-12 columns">
+      <div class="panel">
+        
+        <div class="large-8 large-centered columns">
+          <h4 align="center">Join Sanfa Family by following us on Facebook!</h4>
+          <br>
+          <div class="fb-like" data-href="https://www.facebook.com/sanfa.construction" data-width="650" data-layout="standard" data-action="recommend" data-show-faces="true" data-share="false"></div>
+        </div>
+      </div>
+    </div>
+  </div>
 <!-- Three-up Content Blocks -->
- 
   <div class="row">
     <div class="large-4 columns">
       <img src="/assets/products/cements_250x250.png" />
@@ -43,6 +61,7 @@
     
 <!-- Call to Action Panel -->
 <div class="row">
+    <!--
     <div class="large-12 columns">
     
       <div class="panel">
@@ -57,7 +76,7 @@
           </div>
         </div>
       </div>
-      
     </div>
+    -->
   </div>
  @stop
