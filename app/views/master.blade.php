@@ -1,7 +1,21 @@
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="http://www.facebook.com/2008/fbml">
 <head>
     <meta charset="UTF-8" />
     <title>@yield('title')</title>
+    <meta property="og:title" content="Sanfa Construction Supply">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.sanfa.bz">
+    <meta property="og:image" content="http://www.sanfa.bz/assets/logo/sanfa_300x300.png">
+    <meta property="og:site_name" content="Sanfa Construction Supply">
+    <meta property="og:description" content="Sanfa Construction Supply is located in Corozal, Belize, Central America. We're strive to provide explicit customer experience and top quality supplies. We offer various partnership plan in assisting local construction development. Contact Us for detail. ">
+    <meta property="og:street-address" content="815 San Andres Road,">
+    <meta property="og:locality" content="Corozal Town">
+    <meta property="og:region" content="Belize">
+    <meta property="og:country-name" content="Belize">
+    <meta property="og:email" content="web@sanfa.bz">
+    <meta property="og:phone_number" content="+501-422-0021">
     {{ HTML::script('/foundation/js/modernizr.js') }}
     {{ HTML::style('/foundation/css/foundation.css') }}
     {{ HTML::script('/foundation/js/jquery.js') }}
