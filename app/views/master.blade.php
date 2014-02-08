@@ -14,7 +14,8 @@
 	<meta property="fb:app_id" content="709209622456817">
 	<meta property="og:image" content="http://www.sanfa.bz/assets/logo/sanfa_300x300.png">
 	<meta property="og:site_name" content="Sanfa Construction Supply">
-	
+	<link rel="shortcut icon" href="http://sanfa.bz/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="http://sanfa.bz/favicon.ico" type="image/x-icon">
 	@yield('meta_head')
 </head>
 <body>
