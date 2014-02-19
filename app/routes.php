@@ -59,3 +59,18 @@ Route::get('/about', function()
 {
 	return View::make('about');
 });
+
+Route::get('/quester', function()
+{
+	return View::make('/biotech/index');
+});
+
+Route::get('/quester/casing', function()
+{
+	return View::make('/biotech/casing');
+});
+
+Route::get('/quester/tc6011', function()
+{
+	return View::make('/biotech/tc6011');
+});

@@ -26,6 +26,7 @@
 		<div class="large-9 columns">
 			<ul class="right button-group">
 				<li><a href="/" class="button">Home</a></li>
+				<li><a href="/quester/" class="button alert">Quester</a></li>
 				<li><a href="/products/" class="button">Products</a></li>
 				<li><a href="/about/" class="button">About Us</a></li>
 				<li><a href="/contact/" class="button">Contact Us</a></li>
