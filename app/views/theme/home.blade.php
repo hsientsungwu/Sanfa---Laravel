@@ -22,22 +22,19 @@
           <div class="item active">
             <div class="fill" style="background-image:url('assets/logo/sanfa_1000x400.png');"></div>
             <div class="carousel-caption">
-              <h2>clean and modern design</h2>
-              <a href="#" class="button">DOWNLOAD</a>
+              <h2>Best Price in Town</h2>
             </div>
           </div>
           <div class="item">
             <div class="fill" style="background-image:url('img/slide/slide2.png');"></div>
             <div class="carousel-caption">
-              <h2>fully responsive and retina ready</h2>
-              <a href="#" class="button">SEE MORE</a>
+              <h2>Friendly Customer Service</h2>
             </div>
           </div>
           <div class="item">
             <div class="fill" style="background-image:url('img/slide/slide3.png');"></div>
             <div class="carousel-caption">
-              <h2>based on twitter bootstrap</h2>
-              <a href="#" class="button">DOWNLOAD</a>
+              <h2>If We Don't Have It, We Order It For You</h2>
             </div>
           </div>
         </div>
@@ -58,35 +55,35 @@
         <div class="row">
           <div class="col-md-4 col-sm-4">
             <div class="block-icon">
-              <i class="fa fa-rocket"></i>
+              <i class="fa fa-star" style="line-height:70px;"></i>
             </div>
 
             <div class="block-body">
-              <h2>Creative design</h2>
+              <h2>Cemento Maya</h2>
               <div class="line-subtitle"></div>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dignissim placerat lectus, at ornare sapien tempor eget. Etiam vel vestibulum nisl</p>
+              <p>The most finest and reliable brand used in the country of Belize. It comes with two packaging (50kg and 42.5kg). Direct imported from the factory in Merida.</p>
             </div>
           </div>
           <div class="col-md-4 col-sm-4">
             <div class="block-icon">
-              <i class="fa fa-users"></i>
+              <i class="fa fa-bars" style="line-height:70px;"></i>
             </div>
 
             <div class="block-body">
-              <h2>Built for humans</h2>
+              <h2>Construction Steel</h2>
               <div class="line-subtitle"></div>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dignissim placerat lectus, at ornare sapien tempor eget. Etiam vel vestibulum nisl</p>
+              <p>Construction rebars are provided in different sizes such as 1/4", 3/8", 1/2", 5/8", 3/4", 1". They're most commonly used in building houses, making burglar bar gates/ windows..etc.</p>
             </div>
           </div>
           <div class="col-md-4 col-sm-4">
             <div class="block-icon">
-              <i class="fa fa-cog"></i>
+              <i class="fa fa-road" style="line-height:70px;"></i>
             </div>
 
             <div class="block-body">
-              <h2>Easy customization</h2>
+              <h2>Eletric Curtains</h2>
               <div class="line-subtitle"></div>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dignissim placerat lectus, at ornare sapien tempor eget. Etiam vel vestibulum nisl</p>
+              <p>Currently throughout the world, many people are relying on using Curtain/Shutter doors because they are much stronger and more reliable than regular doors. They are provided in two types, the manual and the automatic (with remote control)</p>
             </div>
           </div>
         </div><!-- /.row -->
