@@ -1,0 +1,21 @@
+
+<?php $__env->startSection('title'); ?> Sanfa | Casing Sauce <?php $__env->stopSection(); ?>
+
+<?php $__env->startSection('body'); ?>
+<br><br>
+<div class="row">
+	<div class="large-12 columns">
+
+		<h4 class="subheader">What is Casing Sauce?</h4>
+		<br>
+		<p><img src="/assets/quester/tc6011_stick.png"></p>
+		<p>Product Code: TC 6011</p>
+		<p>Flavor: Sweet Caramel and Vanilla like</p>
+		<p>Appearance: Dark brown liquid</p>
+		<p>Solubility: Water and propylene glycol</p>
+		<p>Shelf Life: 1 year</p>
+	</div>
+</div>
+
+<?php $__env->stopSection(); ?>
+<?php echo $__env->make('/master', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
