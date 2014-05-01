@@ -20,7 +20,7 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
           <div class="item active">
-            <div class="fill" style="background-image:url('img/slide/slide1.png');"></div>
+            <div class="fill" style="background-image:url('assets/logo/sanfa_1000x400.png');"></div>
             <div class="carousel-caption">
               <h2>clean and modern design</h2>
               <a href="#" class="button">DOWNLOAD</a>
@@ -128,7 +128,7 @@
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pulvinar quam sed consequat adipiscing.
                 </small>
               </div><!-- /.overlay-portfolio -->
-              <img class="img-responsive img-home-portfolio" src="img/portfolio_1.png" alt="portfolio 1">
+              <img class="img-responsive img-home-portfolio" src="bootstrap/img/portfolio_1.png" alt="portfolio 1">
             </a>
           </div>
           <div class="col-lg-4 col-md-4 col-sm-6">
@@ -139,7 +139,7 @@
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pulvinar quam sed consequat adipiscing.
                 </small>
               </div><!-- /.overlay-portfolio -->
-              <img class="img-responsive img-home-portfolio" src="img/portfolio_2.png" alt="portfolio 2">
+              <img class="img-responsive img-home-portfolio" src="bootstrap/img/portfolio_2.png" alt="portfolio 2">
             </a>
           </div>
           <div class="col-lg-4 col-md-4 col-sm-6">
@@ -150,7 +150,7 @@
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pulvinar quam sed consequat adipiscing.
                 </small>
               </div><!-- /.overlay-portfolio -->
-              <img class="img-responsive img-home-portfolio" src="img/portfolio_3.png" alt="portfolio 3">
+              <img class="img-responsive img-home-portfolio" src="bootstrap/img/portfolio_3.png" alt="portfolio 3">
             </a>
           </div>
           <div class="col-lg-4 col-md-4 col-sm-6">
@@ -161,7 +161,7 @@
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pulvinar quam sed consequat adipiscing.
                 </small>
               </div><!-- /.overlay-portfolio -->
-              <img class="img-responsive img-home-portfolio" src="img/portfolio_4.png" alt="portfolio 4">
+              <img class="img-responsive img-home-portfolio" src="bootstrap/img/portfolio_4.png" alt="portfolio 4">
             </a>
           </div>
           <div class="col-lg-4 col-md-4 col-sm-6">
@@ -172,7 +172,7 @@
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pulvinar quam sed consequat adipiscing.
                 </small>
               </div><!-- /.overlay-portfolio -->
-              <img class="img-responsive img-home-portfolio" src="img/portfolio_5.png" alt="portfolio 5">
+              <img class="img-responsive img-home-portfolio" src="bootstrap/img/portfolio_5.png" alt="portfolio 5">
             </a>
           </div>
           <div class="col-lg-4 col-md-4 col-sm-6">
@@ -183,7 +183,7 @@
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pulvinar quam sed consequat adipiscing.
                 </small>
               </div><!-- /.overlay-portfolio -->
-              <img class="img-responsive img-home-portfolio" src="img/portfolio_6.png" alt="portfolio 6">
+              <img class="img-responsive img-home-portfolio" src="bootstrap/img/portfolio_6.png" alt="portfolio 6">
             </a>
           </div>
         </div><!-- /.row -->
@@ -195,33 +195,33 @@
     <div class="section-colored">
 
       <div class="container">
-        <h3 class="section-title text-center">Some of Our Clients</h3>
+        <h3 class="section-title text-center">Some of Our Products</h3>
   
         <div class="container clients">
 
           <div class="row">
             <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6">
-              <a href="#"><img class="img-responsive" src="img/client-1.png" alt="client 1"></a>
+              <a href="#"><img class="img-responsive" src="assets/products/cement_220x220.png" alt="client 1"></a>
             </div>
 
             <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6">
-              <a href="#"><img class="img-responsive" src="img/client-2.png" alt="client 2"></a>
+              <a href="#"><img class="img-responsive" src="assets/products/handtool_220x220.png" alt="client 2"></a>
             </div>
             
             <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6">
-              <a href="#"><img class="img-responsive" src="img/client-3.png" alt="client 3"></a>
+              <a href="#"><img class="img-responsive" src="assets/products/paint_220x220.png" alt="client 3"></a>
             </div>
 
             <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6">
-              <a href="#"><img class="img-responsive" src="img/client-4.png" alt="client 4"></a>
+              <a href="#"><img class="img-responsive" src="assets/products/steel_220x220.png" alt="client 4"></a>
             </div>
 
             <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6">
-              <a href="#"><img class="img-responsive" src="img/client-5.png" alt="client 5"></a>
+              <a href="#"><img class="img-responsive" src="assets/products/block_220x220.png" alt="client 5"></a>
             </div>
 
             <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6">
-              <a href="#"><img class="img-responsive" src="img/client-6.png" alt="client 6"></a>
+              <a href="#"><img class="img-responsive" src="assets/products/plumbing_220x220.png" alt="client 6"></a>
             </div>
           </div><!-- /.row -->
 
